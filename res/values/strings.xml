@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CLUSTER 시계 위젯 모음</string>
+    <string name="widget_name_modern">모던 시계</string>
+    <string name="widget_name_metal">메탈 시계</string>
+    <string name="widget_name_antique">앤틱 시계</string>
+
+</resources>
